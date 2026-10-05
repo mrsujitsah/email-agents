@@ -28,7 +28,7 @@ The project is built to experiment with **local LLMs, LoRA fine-tuning, and AI-p
 | Backend            | Python / FastAPI |
 | ASGI Server        | Uvicorn          |
 | LLM Runtime        | Ollama           |
-| Fine-tuning        | LoRA             |
+| Fine-tuning        | LoRA (as part of  performance tunning it's not included here)            |
 | AI Model           | Local LLM        |
 | Package Management | uv               |
 
